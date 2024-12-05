@@ -1,0 +1,193 @@
+*{
+    margin: 0%;
+    padding: 0%;
+}
+
+.container1{
+    border: 2px solid black;
+    width: 99.8%;
+    height: 1000px;
+}
+
+.bg-img{
+    height: 720px;
+    width: 100%;
+    background-image: url("./images/nf-loginpage-bg-img.jpg");
+}
+
+.nf-img-out{
+    /* border: 2px solid rgb(255, 255, 255); */
+    height: 80px;
+}
+
+.nf-img{
+    height: 100%;
+    width: 200px;
+    margin-left: 150px;
+}
+
+.con-sign-out{
+    height: 640px;
+    display: flex;
+    justify-content: center;
+}
+
+.con-sign-in{
+    /* border: 2px solid rgb(255, 255, 255); */
+    height:640px;
+    width: 450px;
+    background-color:#000000b3;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.con-sign{
+    /* border: 2px solid rgb(255, 255, 255); */
+    height: 510px;
+    width: 310px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.con-1{
+    color: white;
+    font-size: 35px;
+    font-weight: bolder;
+
+}
+
+.con-2{
+    width: 290px;
+    height: 50px;
+    background-color: #373c49b3;
+    border-radius: 5px;
+    border: 1px solid gray;
+    padding-left: 20px;
+    font-size: 16px;
+    color: rgb(214, 212, 212);
+    margin-top: 20px;
+}
+
+.con-3{
+    width: 290px;
+    height: 50px;
+    background-color: #373c49b3;
+    border-radius: 5px;
+    border: 1px solid gray;
+    padding-left: 20px;
+    font-size: 16px;
+    color: rgb(214, 212, 212);
+    margin-top: 15px;
+}
+
+.con-4{
+    color: white;
+    background-color: rgb(197, 0, 0);
+    width: 100%;
+    height: 40px;
+    text-decoration: none;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 18px;
+    font-weight: 100;
+    margin-top: 15px;
+}
+
+.con-4:hover{
+    background-color: rgb(177, 0, 0);
+}
+
+.con-5{
+    color: #ffffffb3;
+    height: 20px;
+    font-size: 18px;
+    text-align: center;
+    margin-top: 15px;
+}
+
+.con-6{
+    color: white;
+    background-color: #4c4d50b3;
+    width: 100%;
+    height: 40px;
+    text-decoration: none;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 18px;
+    font-weight: 100;
+    margin-top: 15px;
+}
+
+.con-6:hover{
+    background-color: #3c3d3fb3;
+}
+
+.con-7{
+    color: white;
+    font-size: large;
+    text-decoration: none;
+    width: 100%;
+    text-align: center;
+    margin-top: 15px;
+}
+
+.con-7:hover{
+    text-decoration: underline;
+}
+
+.checkbox-out{
+    width: 100%;
+    display: flex;
+    font-size: 18px;
+    margin-top: 20px;
+}
+
+.con-8{
+    color: white;
+    margin-left: 20px;
+}
+
+.con-9{
+    color: white;
+    display: flex;
+    font-size: 18px;
+    color: #ffffffb3;
+    margin-top: 15px;
+}
+
+#con-ancor1{
+    color: white;
+    margin-left: 5px;
+    text-decoration: none;
+}
+
+#con-ancor1:hover{
+    text-decoration: underline;
+}
+
+.con-10{
+   color: #ffffffb3;
+   font-size: 15px;
+   margin-top: 20px;
+}
+
+#con-ancor2{
+    color:blue ;
+    text-decoration: none;
+}
+
+#con-ancor2:hover{
+    text-decoration: underline;
+}
+
+.container1{
+    background-color: black;
+    height: 400px;
+    width: 100%;
+}
+
+
